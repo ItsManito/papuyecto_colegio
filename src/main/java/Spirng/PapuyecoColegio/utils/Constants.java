@@ -62,5 +62,9 @@ public class Constants {
         }
 
     }
+    public static class Paths {
 
+        public static final String SCHOOLS_PATHS = "/api/school";
+
+    }
 }
